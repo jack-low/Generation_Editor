@@ -1,0 +1,17 @@
+a {
+	color: #ff0000;
+}
+body {
+ background-color: #919191;
+  color: #15FF18;
+}
+.inputarea {
+	font-size: 93%;
+	background-color: #919191;
+	color: #15FF18;
+}
+.outputarea {
+	font-size: 93%;
+	background-color: #919191;
+	color: #fff;
+}
